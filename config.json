@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseparse",
+        "uuid": 22620752,
+        "checksum": "u0j1o7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
